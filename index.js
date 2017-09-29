@@ -4,7 +4,7 @@
  */
 
 var uid2 = require('uid2');
-var redis = require('redis').createClient({return_buffers: true});
+var redis = require('redis').createClient;
 var msgpack = require('msgpack5')();
 var Adapter = require('socket.io-adapter');
 var Emitter = require('events').EventEmitter;

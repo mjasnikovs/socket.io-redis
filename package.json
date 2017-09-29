@@ -1,10 +1,10 @@
 {
-  "name": "socket.io-redis-1.0.0-msgpack-js-v5",
+  "name": "socket.io-redis-1.0.0-msgpack5",
   "version": "1.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mjasnikovs/socket.io-redis-1.0.0-msgpack-js-v5"
+    "url": "git@github.com:mjasnikovs/socket.io-redis-1.0.0-msgpack5"
   },
   "scripts": {
     "test": "mocha"
