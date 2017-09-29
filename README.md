@@ -1,3 +1,5 @@
+# FORK to fix [error](https://github.com/socketio/socket.io-redis/issues/17)
+
 # socket.io-redis
 
 [![Build Status](https://travis-ci.org/socketio/socket.io-redis.svg?branch=master)](https://travis-ci.org/socketio/socket.io-redis)

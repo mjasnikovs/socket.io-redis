@@ -119,7 +119,7 @@ describe('socket.io-redis', function(){
     var sio = io(srv);
     sio.adapter(adapter({
       pubClient: redis(),
-      subClient: redis(null, null, { return_buffers: true })
+      subClient: redis(null, null, {return_buffers: true})
     }));
     srv.listen(function(err){
       if (err) throw err; // abort tests
